@@ -1,4 +1,4 @@
-# Nexus Repository Manager 3 Authenticated RCE (Groovy Script Task)
+# Sonatype Nexus Repository Manager 3 Authenticated RCE (Groovy Script Task)
 
 This repository contains `exploit.py`, a proof-of-concept exploit that performs **authenticated remote code execution** on Sonatype Nexus Repository Manager 3 by creating and running a **Groovy "script" task** as an authenticated admin user.
 
